@@ -6,7 +6,7 @@ repository: https://github.com/EDEDIN-Solutions/video_watermark
 version: 1.0.5
 
 environment:
-  sdk: ">=2.16.2 <4.0.0"
+  sdk: ">=3.4.0 <4.0.0"
 
 dependencies:
   flutter:
