@@ -12,8 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   ffmpeg_kit:
-  git:
-    url: https://github.com/misterpropik/ffmpeg-kit
+    git:
+      url: https://github.com/misterpropik/ffmpeg-kit
   path_provider: ^2.0.11
 
 platforms:
